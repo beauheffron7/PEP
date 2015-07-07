@@ -1,6 +1,6 @@
 endprogram = false
 while endprogram == false
-
+  #comment
 puts "Input the string to encode"
 userInput = gets.chomp
 puts "Input shift"
